@@ -1,0 +1,42 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "")
+
+Cyber RPG v3.403 SaveCode
+
+ //" )
+	call Preload( "")
+
+-load -AZd.AAZZB{AB9d,AP~AAFAARRERGAARHAAAAC{RDDDADCtCnD*AB8nfAAAAAAAAAAAAPQPuAEg!
+
+ //" )
+	call Preload( "")
+
+직업 : 초보자
+
+ //" )
+	call Preload( "")
+
+레벨 : 471
+
+ //" )
+	call Preload( "")
+
+소지 골드 : 191832
+
+ //" )
+	call Preload( "")
+
+현재 명성도 : 2200
+
+ //" )
+	call Preload( "")
+
+까페 주소 : https://cafe.naver.com/rpgmake2
+
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
